@@ -22,6 +22,7 @@ Use GitHub repositories to document everything. \o/
 - [E. Ferreira](https://github.com/slowernews/notebook)
 - [Eyal Levin](https://github.com/eyalev/notes)
 - [Ezekiel Kigbo](https://github.com/theatlasroom/tidbits)
+- [Gavin Gamboa](https://gavart.ist)
 - [Harald O. Bakke](https://github.com/bakke92/hwiki)
 - [Joseph Rex](https://github.com/josephrexme/knowledge)
 - [Josh Johnston](https://github.com/joshwnj/knowledge)
